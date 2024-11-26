@@ -1,0 +1,39 @@
+
+body {
+font-family: 'Arial', sans-serif;
+}
+
+.card {
+border: none;
+}
+
+input, select, button {
+background-color: #444;
+color: #fff;
+border: 1px solid #555;
+}
+
+input:focus, select:focus, button:focus {
+outline: none;
+border-color: #007bff;
+}
+
+h2 {
+color: #fff;
+}
+
+button {
+background-color: #007bff;
+border-color: #007bff;
+}
+
+button:hover {
+background-color: #0056b3;
+}
+
+#result {
+font-size: 1.2rem;
+margin-top: 10px;
+color: #fff;
+}
+
